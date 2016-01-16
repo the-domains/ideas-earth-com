@@ -1,7 +1,7 @@
 name: ideas2earth
 favicon: null
-layout_spectrum: 0.615709
-typography_spectrum: 0.980574
+layout_spectrum: 0.37318
+typography_spectrum: 0.60603
 cta:
   domain: null
   bucket: null
@@ -16,15 +16,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#C0B8B8'
-    - '#803030'
-    - '#A86070'
-    - '#A83840'
-    - '#C87870'
-  brandStrength: 0.890726
-  lightness: 0.831106
-  saturation: 0.541108
-  rhythmicContrast: 0.038592
+    - '#0d1009'
+    - '#ffffff'
+    - '#9e836f'
+    - '#ccab92'
+    - '#fc835f'
+  brandStrength: 0.5625
+  lightness: 0.3125
+  saturation: 1
+  rhythmicContrast: 1
 purpose:
   - name: null
     item: null
