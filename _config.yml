@@ -1,4 +1,19 @@
-analytics: {}
+name: ideas2earth
+favicon: null
+layout_spectrum: 0.615709
+typography_spectrum: 0.980574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0B8B8'
@@ -8,11 +23,9 @@ color:
     - '#C87870'
   brandStrength: 0.890726
   lightness: 0.831106
-  rhythmicContrast: 0.038592
   saturation: 0.541108
-cta: {}
-layout_spectrum: 0.615709
-name: ideas2earth
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.980574
+  rhythmicContrast: 0.038592
+purpose:
+  - name: null
+    item: null
+    url: null
