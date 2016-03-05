@@ -6,14 +6,14 @@ color:
     - '#909850'
     - '#F85020'
     - '#F08848'
-  brandStrength: 0.6875
+  brandStrength: 0.33277
   lightness: 0.625
-  rhythmicContrast: 0.5
-  saturation: 0.75
+  rhythmicContrast: 0.221284
+  saturation: 0.347128
 cta: {}
-layout_spectrum: 0.37318
+layout_spectrum: 0.767736
 name: ideas2earth.com
 opengraph: {}
 purpose:
   - {}
-typography_spectrum: 0.60603
+typography_spectrum: 0.704392
